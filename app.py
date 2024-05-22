@@ -764,6 +764,95 @@ videojuegos = [
         'desarrolladora': 'Capcom',
         'puntaje_metacritic': None,
         'puntaje_usuarios': None
+    },{
+        'id': 88,
+        'nombre': 'LEGO Batman: The Videogame',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 89,
+        'nombre': 'LEGO Indiana Jones: The Original Adventures',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 90,
+        'nombre': 'LEGO Harry Potter: Years 1–4',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 91,
+        'nombre': 'LEGO Star Wars II: The Original Trilogy',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 92,
+        'nombre': 'LEGO Pirates of the Caribbean: The Video Game',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 93,
+        'nombre': 'LEGO Marvel Super Heroes',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 94,
+        'nombre': 'LEGO The Lord of the Rings',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 95,
+        'nombre': 'LEGO Jurassic World',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 96,
+        'nombre': 'LEGO DC Super-Villains',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
+    },
+    {
+        'id': 97,
+        'nombre': 'LEGO Movie Videogame',
+        'genero': 'Aventura, Acción',
+        'plataforma': 'Varios',
+        'desarrolladora': 'Traveller\'s Tales',
+        'puntaje_metacritic': None,
+        'puntaje_usuarios': None
     }
 
  
